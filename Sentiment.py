@@ -437,10 +437,3 @@ if (predication[0] == 0):
     
 else:
      print("Positive Tweet") 
-
-
-# In[ ]:
-
-
-
-
